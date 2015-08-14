@@ -1,0 +1,69 @@
+C:\Users\Raj\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+C:\Users\Raj\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+C:\Users\Raj\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+C:\Users\Raj\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\Sales and Inventory System.csprojResolveAssemblyReference.cache
+C:\Users\Raj\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.btnUpdate.resources
+C:\Users\Raj\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.frmCustomers.resources
+C:\Users\Raj\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.CustomersRecord.resources
+C:\Users\Raj\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.CustomersRecord1.resources
+C:\Users\Raj\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.frmInvoice.resources
+C:\Users\Raj\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Product.resources
+C:\Users\Raj\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Login.resources
+C:\Users\Raj\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.MDIParent1.resources
+C:\Users\Raj\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Properties.Resources.resources
+C:\Users\Raj\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\Sales and Inventory System.csproj.GenerateResource.Cache
+C:\Users\Raj\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.exe
+C:\Users\Raj\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.pdb
+C:\Users\Raj\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.frmAbout.resources
+F:\Project\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+F:\Project\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.exe
+F:\Project\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.pdb
+F:\Project\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+F:\Project\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+F:\Project\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Project\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.frmAbout.resources
+F:\Project\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.btnUpdate.resources
+F:\Project\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.frmCustomers.resources
+F:\Project\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.CustomersRecord.resources
+F:\Project\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.CustomersRecord1.resources
+F:\Project\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.frmInvoice.resources
+F:\Project\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Product.resources
+F:\Project\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Login.resources
+F:\Project\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.MDIParent1.resources
+F:\Project\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Properties.Resources.resources
+F:\Project\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Project\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Vaibhav\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\Sales and inventory.exe.config
+C:\Users\Vaibhav\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\Sales and inventory.exe
+C:\Users\Vaibhav\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\Sales and inventory.pdb
+C:\Users\Vaibhav\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\Sales and Inventory System.csprojResolveAssemblyReference.cache
+C:\Users\Vaibhav\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.frmAbout.resources
+C:\Users\Vaibhav\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.btnUpdate.resources
+C:\Users\Vaibhav\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.frmCustomers.resources
+C:\Users\Vaibhav\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.CustomersRecord.resources
+C:\Users\Vaibhav\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.CustomersRecord1.resources
+C:\Users\Vaibhav\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.frmInvoice.resources
+C:\Users\Vaibhav\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Product.resources
+C:\Users\Vaibhav\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Login.resources
+C:\Users\Vaibhav\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.MDIParent1.resources
+C:\Users\Vaibhav\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Properties.Resources.resources
+C:\Users\Vaibhav\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\Sales and Inventory System.csproj.GenerateResource.Cache
+C:\Users\Vaibhav\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\Sales and inventory.exe
+C:\Users\Vaibhav\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\Sales and inventory.pdb
+C:\Users\Hassan\Downloads\Compressed\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\Sales and inventory.exe.config
+C:\Users\Hassan\Downloads\Compressed\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\Sales and inventory.pdb
+C:\Users\Hassan\Downloads\Compressed\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\Sales and inventory.exe
+C:\Users\Hassan\Downloads\Compressed\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\Sales and inventory.pdb
+C:\Users\Hassan\Downloads\Compressed\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\Sales and Inventory System.csprojResolveAssemblyReference.cache
+C:\Users\Hassan\Downloads\Compressed\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.frmAbout.resources
+C:\Users\Hassan\Downloads\Compressed\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.btnUpdate.resources
+C:\Users\Hassan\Downloads\Compressed\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.frmCustomers.resources
+C:\Users\Hassan\Downloads\Compressed\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.CustomersRecord.resources
+C:\Users\Hassan\Downloads\Compressed\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.CustomersRecord1.resources
+C:\Users\Hassan\Downloads\Compressed\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.frmInvoice.resources
+C:\Users\Hassan\Downloads\Compressed\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Product.resources
+C:\Users\Hassan\Downloads\Compressed\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Login.resources
+C:\Users\Hassan\Downloads\Compressed\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.MDIParent1.resources
+C:\Users\Hassan\Downloads\Compressed\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Properties.Resources.resources
+C:\Users\Hassan\Downloads\Compressed\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\Sales and Inventory System.csproj.GenerateResource.Cache
+C:\Users\Hassan\Downloads\Compressed\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\Sales and inventory.exe
